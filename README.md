@@ -1,3 +1,3 @@
-# Muhammad Cordiaz, S.Si., M.Kom
+# Muhammad Cordiaz
 ## System Administrator
 
