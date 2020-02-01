@@ -2,9 +2,10 @@
 #### System Administrator
 
 
-### Brief description
-VMs, virtualization, networking, storage and backup and cloud computing. Every day mostly do support systems for Windows corporate environment and small Linux environment. Accustomed to using cloud computing in several cloud operators including Telkom Sigma, Indosat Cloud and Microsoft Azure. On-premise the system uses VMWare virtualization, for Apache, Tomcat, Nginx, and the mySQL, MariaDB database. Have AWS certification, Alibaba Cloud and get Alibaba Cloud MVP award.
+### -- Brief description --
+The System Administrator has experience managing computer systems related to physical servers and VMs, virtualization, networking, storage and backup and cloud computing. Every day mostly do support systems for Windows corporate environment and small Linux environment. Accustomed to using cloud computing in several cloud operators including Telkom Sigma, Indosat Cloud and Microsoft Azure. On-premise the system uses VMWare virtualization, for Apache, Tomcat, Nginx, and the mySQL, MariaDB database. Have AWS certification, Alibaba Cloud and get Alibaba Cloud MVP award.
 
+### -- Links --
 ### -- Work History --
 - 2011/05 - 2019/04 System Administrator | PT Kompas Media Nusantara, Jakarta
 - 2004/03 - 2011/05 IT Superintendent | PT Kompas Media Nusantara | Jakarta
