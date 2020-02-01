@@ -1,4 +1,4 @@
-## Muhammad Cordiaz
+## Muhammad Cordiaz, S.Si., M.Kom
 #### System Administrator | AWS Certified | Alibaba Cloud Certified | MVP Alibaba Cloud | Cloud Engineer
 
 +62 812-1258-8262\
@@ -7,23 +7,37 @@ https://github.com/cordiaz/resume
 https://linkedin.com/in/cordiaz   
 https://wordpress.com/cordiaz  
 
-### -- Brief description --
+### ~ Brief description ~
 The System Administrator has experience managing computer systems related to physical servers and VMs, virtualization, networking, storage and backup and cloud computing. Every day mostly do support systems for Windows corporate environment and small Linux environment. Accustomed to using cloud computing in several cloud operators including Telkom Sigma, Indosat Cloud and Microsoft Azure. On-premise the system uses VMWare virtualization, for Apache, Tomcat, Nginx, and the mySQL, MariaDB database. Have AWS certification, Alibaba Cloud and get Alibaba Cloud MVP award.
 
-### -- Links --
-### -- Work History --
+### ~ Links ~
+### ~ Work History ~
 - 2011/05 - 2019/04 System Administrator | PT Kompas Media Nusantara, Jakarta
 - 2004/03 - 2011/05 IT Superintendent | PT Kompas Media Nusantara | Jakarta
 - 2001/10 - 2004/03 IT Junior Staff | PT Kompas Media Nusantara | Jakarta
 - 2001/09 - 2001/10 Linux System Administrator | PT RAB Linux Indonesia | Jakarta
 - 2001/02 - 2001/05 System and Network Auditor | PT CNETBC | Jakarta
-### -- Certifications --
-### -- Achievement --
-### -- Education --
-### -- Training --
-### -- Language --
-### -- Organization --
-### -- Interest --
+### ~ Certifications ~
+- 2019-11 AWS Certified Solutions Architect Associate - 8VRZY2X23MF1QCGP
+- 2019-09 Alibaba Cloud - Blue Green Deployment Using Continer Service - ACLC12190900002868
+- 2019-09 Alibaba Cloud - Elastic Archictecture and Case Study - ACLC23190900002832
+- 2019-08 Alibaba Cloud - Fundamental Architecture and Case Analysis - ACLC17190800002629
+- 2019-08 Alibaba Cloud - An Introduction of DevOps - ACLC19190800002633
+- 2019-08 Alibaba Cloud - Using Kubernetes to Manage Containers and Cluster Resorces - ACLC32190900002741
+- 2019-08 AWS Certified Cloud Practitioner - V3W2BJXCG2E41V9D
+- 2019-07 Alibaba Cloud - Cloud Computing Specialist Certification Deploy an E-Commerce Website - ACLC07190700002310
+- 2019-07 Alibaba Cloud - ACA Associate - 358052236-451297588
+- 2019-07 Alibaba Cloud - Cloud Computing Specialist Operate & Manage Object Storage on The Cloud - ACLC05190700002311
+- 2019-05 Alibaba Cloud- Cloud Computing Specialist Certificatioan Operate and Manage a Cloud Server - ACLC03190500002041
+- 2019-04 Labs Google Cloud Platform Baseline: Infrastructure; GCP Essentials; Kubernetes in the Google Cloud - https://google.qwiklabs.com/public/pro_files/e899417d-e1e8-457d-846a-669ebeb8e1b2
+- 2019-03 MikroTik Certified Network Administrator - 1903NA5326
+- 2018-10 Certified Secure Computer User V2 - ECC6024537819
+### ~ Achievement ~
+### ~ Education ~
+### ~ Training ~
+### ~ Language ~
+### ~ Organization ~
+### ~ Interest ~
 
 
 
