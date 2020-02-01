@@ -9,10 +9,8 @@ https://wordpress.com/cordiaz
 
 ### ~ Brief description ~
 The System Administrator has experience managing computer systems related to physical servers and VMs, virtualization, networking, storage and backup and cloud computing. Every day mostly do support systems for Windows corporate environment and small Linux environment. Accustomed to using cloud computing in several cloud operators including Telkom Sigma, Indosat Cloud and Microsoft Azure. On-premise the system uses VMWare virtualization, for Apache, Tomcat, Nginx, and the mySQL, MariaDB database. Have AWS certification, Alibaba Cloud and get Alibaba Cloud MVP award.
-
-### ~ Links ~
 ### ~ Work History ~
-- 2011/05 - 2019/04 System Administrator | PT Kompas Media Nusantara, Jakarta
+- 2011/05 - 2019/04 System Administrator | PT Kompas Media Nusantara | Jakarta
 - 2004/03 - 2011/05 IT Superintendent | PT Kompas Media Nusantara | Jakarta
 - 2001/10 - 2004/03 IT Junior Staff | PT Kompas Media Nusantara | Jakarta
 - 2001/09 - 2001/10 Linux System Administrator | PT RAB Linux Indonesia | Jakarta
@@ -29,14 +27,22 @@ The System Administrator has experience managing computer systems related to phy
 - 2019-07 Alibaba Cloud - ACA Associate - 358052236-451297588
 - 2019-07 Alibaba Cloud - Cloud Computing Specialist Operate & Manage Object Storage on The Cloud - ACLC05190700002311
 - 2019-05 Alibaba Cloud- Cloud Computing Specialist Certificatioan Operate and Manage a Cloud Server - ACLC03190500002041
-- 2019-04 Labs Google Cloud Platform Baseline: Infrastructure; GCP Essentials; Kubernetes in the Google Cloud - https://google.qwiklabs.com/public/pro_files/e899417d-e1e8-457d-846a-669ebeb8e1b2
+- 2019-04 Labs Google Cloud Platform Baseline: Infrastructure; GCP Essentials; Kubernetes in the Google Cloud
 - 2019-03 MikroTik Certified Network Administrator - 1903NA5326
 - 2018-10 Certified Secure Computer User V2 - ECC6024537819
 ### ~ Achievement ~
+- Alibaba Cloud Most Valuable Professional (MVP) October 2019  
+https://mvp.alibabacloud.com/mvp/detail/more?spm=5176.8961142.detail.3.7ff15b37uZHtC8&id=225
 ### ~ Education ~
+
 ### ~ Training ~
+
 ### ~ Language ~
+Indonesia  
+English  
+
 ### ~ Organization ~
+
 ### ~ Interest ~
 
 
