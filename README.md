@@ -1,5 +1,5 @@
 ## Muhammad Cordiaz, S.Si., M.Kom
-#### AWS Trainer | System Administrator | AWS Certified | Alibaba Cloud Certified | MVP Alibaba Cloud | Cloud Engineer
+#### AWS Trainer | Cloud Engineer | System Administrator | AWS Certified | Alibaba Cloud Certified | MVP Alibaba Cloud 
 
 +62 812-1258-8262\
 cordiaz@cordiaz.com\
