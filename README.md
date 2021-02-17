@@ -23,6 +23,7 @@ Currently as Cloud Technology Trainer for AWS dan Alibaba Cloud. Cloud technolog
 - 2020/12 - Alibaba Cloud - Alibaba Cloud Associate - Cloud Native - IACA05201200041608L
 - 2020/10 - Sumo Logic - Sumo Logic Fundamentals Certified - xcan5gst8jox
 - 2020/10 - Sumo Logic - Sumo Logic Search Mastery Certified - y8fa2zk6fc8i
+- 2020/10 - Sumo Logic - Sumo Logic Administration Certified - 3a44739ofjve
 - 2019/11 - AWS Certified Solutions Architect Associate - 8VRZY2X23MF1QCGP
 - 2019/09 - Alibaba Cloud - Blue Green Deployment Using Continer Service - ACLC12190900002868
 - 2019/09 - Alibaba Cloud - Elastic Archictecture and Case Study - ACLC23190900002832
@@ -39,7 +40,7 @@ Currently as Cloud Technology Trainer for AWS dan Alibaba Cloud. Cloud technolog
 - 2018/10 - Certified Secure Computer User V2 - ECC6024537819
 
 ### ~ Achievement ~
-- Alibaba Cloud Most Valuable Professional (MVP) since October 2019  
+- Alibaba Cloud Most Valuable Professional (MVP) since October 2019 until now (2020, 2021)  
 https://mvp.alibabacloud.com/mvp/detail/more?spm=5176.8961142.detail.3.7ff15b37uZHtC8&id=225
 
 ### ~ Education ~
