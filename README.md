@@ -1,5 +1,5 @@
 ## Muhammad Cordiaz, S.Si., M.Kom
-#### AWS Trainer | Cloud Engineer | System Administrator | AWS Certified | Alibaba Cloud Certified | MVP Alibaba Cloud 
+#### Cloud Engineer | System Administrator | AWS Trainer | Huawei Cloud Certified | AWS Certified | Alibaba Cloud Certified | MVP Alibaba Cloud
 
 +62 812-1258-8262\
 cordiaz@cordiaz.com\
@@ -11,7 +11,8 @@ https://wordpress.com/cordiaz
 Currently as Cloud Technology Trainer for AWS dan Alibaba Cloud. Cloud technology becomes one of myfavorite fields. As a Trainer, I am responsible for presenting all AWS products that are needed by WestconComstor APAC internal users and external users, partners and clients. Perform AWS product presentationsand demos. My experience journey as a System Administrators. The System Administrator has experience managing computer systems related to physical servers and VMs, virtualization, networking, storage and backup and cloud computing. Every day mostly do support systems for Windows corporate environment and small Linux environment. Accustomed to using cloud computing in several cloud operators including Telkom Sigma, Indosat Cloud and Microsoft Azure. On-premise the system uses VMWare virtualization, for Apache, Tomcat, Nginx, and the mySQL, MariaDB database. Have AWS certification, Alibaba Cloud and get Alibaba Cloud MVP award.
 
 ### ~ Work History ~
-- 2020/04 - current AWS Trainer | Westcon Comstor Asia | Jakarta
+- 2021/07 - Huawei Cloud Engineer | PT Elabram Systems | Jakarta
+- 2020/04 - 2021/04 AWS Trainer | Westcon Comstor Asia | Jakarta
 - 2011/05 - 2019/04 System Administrator | PT Kompas Media Nusantara | Jakarta
 - 2004/03 - 2011/05 IT Superintendent | PT Kompas Media Nusantara | Jakarta
 - 2001/10 - 2004/03 IT Junior Staff | PT Kompas Media Nusantara | Jakarta
@@ -19,6 +20,8 @@ Currently as Cloud Technology Trainer for AWS dan Alibaba Cloud. Cloud technolog
 - 2001/02 - 2001/05 System and Network Auditor | PT CNETBC | Jakarta
 
 ### ~ Certifications ~
+- 2021/12 - Huawei Cloud HCIP
+- 2021/11 - Huawei Cloud HCIA
 - 2021/02 - Alibaba Cloud - Alibaba Cloud Associate - Cloud Security - IACA02210200045593L
 - 2020/12 - Alibaba Cloud - Alibaba Cloud Associate - Cloud Native - IACA05201200041608L
 - 2020/10 - Sumo Logic - Sumo Logic Fundamentals Certified - xcan5gst8jox
