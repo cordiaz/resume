@@ -11,7 +11,7 @@ https://wordpress.com/cordiaz
 Currently supporting Huawei Cloud Indonesia products and services as Intermediate Assistant for Cloud Service Solutions (Solution Architect Engineer Assistant), driving pre-sales solutioning, customer workshops, and technical presentations from design through commercial close. Previously served as Cloud Technology Trainer for AWS at Westcon-Comstor Asia, delivering product training, demos, and technical consulting to APAC internal users, partners, and clients. Background as a System Administrator with 8+ years managing physical servers, VMs, virtualization, networking, storage, and backup, supporting Windows enterprise and Linux environments daily. Experienced with cloud operators including Telkomsigma Cloud, Indosat Cloud, and Microsoft Azure (IaaS/PaaS), on-premise virtualization via VMware vSphere, and web/database stacks (Apache, Tomcat, Nginx, MySQL, PostgreSQL). Certified in AWS, Alibaba Cloud, and Huawei Cloud, and recipient of the Alibaba Cloud MVP award.
 
 ### ~ Work History ~
-- 2021/07 - Huawei Cloud Engineer | PT Elabram Systems | Jakarta
+- 2021/07 - Present Huawei Cloud Intermediate Assistant for Cloud Service Solutions | PT Elabram Systems | Jakarta
 - 2020/04 - 2021/04 AWS Trainer | Westcon Comstor Asia | Jakarta
 - 2011/05 - 2019/04 System Administrator | PT Kompas Media Nusantara | Jakarta
 - 2004/03 - 2011/05 IT Superintendent | PT Kompas Media Nusantara | Jakarta
